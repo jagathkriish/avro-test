@@ -1,0 +1,4 @@
+com/vladkrava/converter/AvroToJsonConverterTest.class
+com/vladkrava/converter/AvroToXmlConverterTest.class
+com/vladkrava/converter/XmlToAvroConverterTest.class
+com/vladkrava/converter/JsonToAvroConverterTest.class
